@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zulqarnain</h1>
 <h3 align="center">Crafting the Future: Mastering MEAN/MERN with AWS - 4+ Years of JavaScript Excellence</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zukqurnain" alt="Zulqarnain" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=zukqurnain" alt="Zulqarnain" /> </p>
 
 <p align="left"> <a href="https://twitter.com/zulqurnainhuda" target="blank"><img src="https://img.shields.io/twitter/follow/zulqurnainhuda?logo=twitter&style=for-the-badge" alt="zulqurnainhuda" /></a> </p>
 
